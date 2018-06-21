@@ -1,12 +1,9 @@
 # My very first web page
 
 Welcome!
-## This is h2
 
-### This is h3
+This page has been developed using skills learnt within HTML5, CSS and now Git and GitHub
 
-#### This is h3
+# This is the beginning of a very interesting career change!
 
-##### This is h5
-
-###### This is h6
+## Watch out world, I'm on my way...
